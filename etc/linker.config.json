@@ -1,0 +1,15 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libbnnmlowp.a-x86_64-v2.so",
+		    "libdummy_binary_libbnnmlowp.a.so",
+		    "libdummy_binary_libbnnmlowpV8.a-x86_64-v2.so",
+		    "libdummy_binary_libbnnmlowpV8.a.so",
+		    "libdummy_ext_gemmlowp-x86_64-v2.so",
+		    "libdummy_ext_gemmlowp.so",
+		    "libdummy_headers_ext_gemmlowp-x86_64-v2.so",
+		    "libdummy_headers_ext_gemmlowp.so",
+		    "libdummy_shared_gemmlowp-x86_64-v2.so",
+		    "libdummy_shared_gemmlowp.so"
+	],
+	"visible": true
+}
